@@ -1,0 +1,53 @@
+html {
+    font-size: 20px; 
+    font-family: Open Sans;
+  }
+
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  html {
+    background-color: #55eadb;
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #0aeedb;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(62, 63, 170);
+    font-family: "Comfortaa", sans-serif;
+
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #1a68b2;
+    text-shadow: 3px 3px 1px rgb(143, 140, 140);
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+    width: auto;
+  }
+
+  .hide {
+    display: none;
+  }
+
+  .button:hover {
+    cursor: pointer;
+    font-size: 150%;
+  }
